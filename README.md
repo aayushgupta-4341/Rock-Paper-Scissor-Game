@@ -15,7 +15,7 @@ Play against the computer and test your luck & logic!
 
 ## 📂 GitHub Repository
 
-👉 https://github.com/aayushgupta-4341/Rock-Paper-Scissors
+👉 [https://github.com/aayushgupta-4341/Rock-Paper-Scissors](https://github.com/aayushgupta-4341/Rock-Paper-Scissor-Game.git)
 
 ---
 
