@@ -9,7 +9,7 @@ Play against the computer and test your luck & logic!
 
 ## 🌐 Live Demo
 
-👉 https://your-deploy-link-here
+[👉 https://your-deploy-link-here](https://rock-paper-scissor-gamy.netlify.app/)
 
 ---
 
