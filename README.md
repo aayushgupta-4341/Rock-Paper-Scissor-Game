@@ -41,7 +41,8 @@ Play against the computer and test your luck & logic!
 
 ## 📸 Screenshot
 
-(Add your screenshot here)
+<img width="1912" height="957" alt="image" src="https://github.com/user-attachments/assets/ba686afb-2396-4fb4-92bb-ff38b4a49b13" />
+
 
 ---
 
